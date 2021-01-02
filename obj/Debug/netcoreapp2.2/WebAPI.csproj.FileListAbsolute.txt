@@ -1,0 +1,14 @@
+E:\S3InnovatTest\CRUDApp\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\S3InnovatTest\CRUDApp\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\S3InnovatTest\CRUDApp\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\S3InnovatTest\CRUDApp\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\S3InnovatTest\CRUDApp\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\S3InnovatTest\CRUDApp\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache

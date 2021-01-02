@@ -1,0 +1,17 @@
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.deps.json
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.runtimeconfig.json
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.runtimeconfig.dev.json
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.dll
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.pdb
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.csprojAssemblyReference.cache
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.AssemblyInfoInputs.cache
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.AssemblyInfo.cs
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.csproj.CoreCompileInputs.cache
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorAssemblyInfo.cache
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorAssemblyInfo.cs
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorTargetAssemblyInfo.cache
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.dll
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.pdb
+E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.genruntimeconfig.cache
