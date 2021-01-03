@@ -52,8 +52,8 @@ namespace WebAPI.Controllers
                 
                 foreach (var cc in tempComent)
                 {
-                    var like = await _context.Votes.Where(x => x.CommentId==cc.Id && x.IsLike== true && x.UserId==cc.UserId ).ToListAsync();
-                    var Dislike = await _context.Votes.Where(x => x.CommentId == cc.Id && x.IsLike == false && x.UserId == cc.UserId).ToListAsync();
+                    var like = await _context.Votes.Where(x => x.CommentId==cc.Id && x.IsLike== true  ).ToListAsync();
+                    var Dislike = await _context.Votes.Where(x => x.CommentId == cc.Id && x.IsLike == false).ToListAsync();
                     oreturnOBj = new returnOBj();
                     oreturnOBj.PostText = "";
                     oreturnOBj.UserName = _context.Users.Where(x => x.Id == cc.UserId).FirstOrDefault().UserName;

@@ -15,3 +15,19 @@ E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcore
 E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.dll
 E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.pdb
 E:\InterView Examps\BSTest\FeedBackServerAPI\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.genruntimeconfig.cache
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.deps.json
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.runtimeconfig.json
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.runtimeconfig.dev.json
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.dll
+D:\BSTest\FeedBackServerAPI\bin\Debug\netcoreapp2.2\FeedBackServerAPI.pdb
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.AssemblyInfoInputs.cache
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.AssemblyInfo.cs
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.csproj.CoreCompileInputs.cache
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorAssemblyInfo.cache
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorAssemblyInfo.cs
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.RazorTargetAssemblyInfo.cache
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.dll
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.pdb
+D:\BSTest\FeedBackServerAPI\obj\Debug\netcoreapp2.2\FeedBackServerAPI.genruntimeconfig.cache
